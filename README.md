@@ -1,6 +1,6 @@
 # :muscle: 15 Soruluk Quiz
 
-## Bu projemde15tane olay sorular sırasıyla geliyor ve biz de  zamanında cevaplamaya çalışıyoruz! :ok_hand:
+### Bu projemde 15 tane kolay sorular sırasıyla geliyor ve biz de zamanında cevaplamaya çalışıyoruz! :ok_hand:
 
 ![quizResim1](https://github.com/FurcanY/15-Soruluk-Quiz/assets/69853025/358898ea-7ca1-4581-a641-14aee74e69e7)
 
